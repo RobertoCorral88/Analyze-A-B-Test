@@ -1,2 +1,2 @@
 # Analyze-A-B-Test
-Analyze A/B with python
+Analyze A/B test with python
